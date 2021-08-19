@@ -1,6 +1,6 @@
 {
   "taskIntervalTime": 10,
-  "numberOfCoins": 5,
+  "numberOfCoins": 1,
   "reserveCoins": 50,
   "selectLike": 0,
   "monthEndAutoCharge": true,
